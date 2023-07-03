@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "nodetesti"
   annotations:
-    backstage.io/techdocs-ref: docs/
+    backstage.io/techdocs-ref: dir:docs/
 spec:
   type: service
   owner: user:guest
